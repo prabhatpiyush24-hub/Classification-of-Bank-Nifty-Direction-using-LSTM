@@ -193,9 +193,8 @@ It establishes a scalable framework that can be extended using:
 News sentiment analysis
 
 Options and derivatives data
-Author
 
-Piyush Prabhat
+
 
 Intraday price signals
 
